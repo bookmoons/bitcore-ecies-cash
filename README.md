@@ -41,8 +41,6 @@ See [CONTRIBUTING.md](https://github.com/bitpay/bitcore/blob/master/CONTRIBUTING
 
 Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
 
-Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
-
 [bitcore]: http://github.com/bitpay/bitcore
 [ECIES]: http://en.wikipedia.org/wiki/Integrated_Encryption_Scheme
 [ryan]: http://github.com/ryanxcharles
