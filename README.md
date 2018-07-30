@@ -1,4 +1,3 @@
-<img src="http://bitcore.io/css/images/module-ecies.png" alt="bitcore ecies" height="35">
 # Bitcoin Cash ECIES for bitcore
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-ecies.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-ecies)
