@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-ecies",
-  "main": "./bitcore-ecies.min.js",
+  "name": "bitcore-ecies-cash",
+  "main": "./bitcore-ecies-cash.min.js",
   "version": "1.0.3",
   "homepage": "https://github.com/bitpay/bitcore-ecies",
   "authors": [
     "BitPay"
   ],
-  "description": "ECIES implemented for Bitcore.",
+  "description": "Bitcore based ECIES for Bitcoin Cash",
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "bitcoin",
     "bitcore",
-    "btc",
+    "bch",
     "satoshi",
     "ecies"
   ],
