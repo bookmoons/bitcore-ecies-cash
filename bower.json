@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-ecies-cash",
+  "name": "bookmoons.bitcore-ecies-cash",
   "main": "./bitcore-ecies-cash.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-ecies",
+  "homepage": "https://github.com/bookmoons/bitcore-ecies-cash",
   "authors": [
     "BitPay"
   ],
@@ -11,7 +11,7 @@
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "bitcoin cash",
     "bitcore",
     "bch",
     "satoshi",
