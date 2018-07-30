@@ -1,7 +1,5 @@
 # ECIES
-Bitcore implements [Elliptic Curve Integrated Encryption Scheme (ECIES)](http://en.wikipedia.org/wiki/Integrated_Encryption_Scheme), which is a public key encryption system that performs bulk encryption on data using a symmetric cipher and a random key.
-
-For more information refer to the [bitcore-ecies](https://github.com/bitpay/bitcore-ecies) github repo.
+This module implements [Elliptic Curve Integrated Encryption Scheme (ECIES)](http://en.wikipedia.org/wiki/Integrated_Encryption_Scheme) around bitcore for Bitcoin Cash.
 
 ## Installation
 ECIES is implemented as a separate module and you must add it to your dependencies:
@@ -9,20 +7,20 @@ ECIES is implemented as a separate module and you must add it to your dependenci
 For node projects:
 
 ```bash
-npm install bitcore-ecies --save
+npm install @bookmoons/bitcore-ecies-cash --save
 ```
 
 For client-side projects:
 
 ```bash
-bower install bitcore-ecies --save
+bower install bookmoons.bitcore-ecies-cash --save
 ```
 
 ## Example
 
 ```javascript
 var bitcore = require('bitcore-lib-cash');
-var ECIES = require('bitcore-ecies');
+var ECIES = require('@bookmoons/bitcore-ecies-cash');
 
 var alicePrivateKey = new bitcore.PrivateKey();
 var bobPrivateKey = new bitcore.PrivateKey();
