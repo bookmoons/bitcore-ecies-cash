@@ -23,9 +23,6 @@
   ],
   "author": "BitPay",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bitpay/bitcore-ecies/issues"
-  },
   "homepage": "https://github.com/bookmoons/bitcore-ecies-cash",
   "devDependencies": {
     "assert": "^1.1.2",
