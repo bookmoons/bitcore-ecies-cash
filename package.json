@@ -1,6 +1,6 @@
 {
   "name": "@bookmoons/bitcore-ecies-cash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bitcore based ECIES for Bitcoin Cash",
   "main": "index.js",
   "directories": {
