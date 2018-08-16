@@ -12,10 +12,7 @@
     "coverage": "gulp coverage",
     "build": "gulp"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bitpay/bitcore-ecies.git"
-  },
+  "repository": "github:bookmoons/bitcore-ecies-cash",
   "keywords": [
     "bitcoin cash",
     "bitcore",
